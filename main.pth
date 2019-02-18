@@ -1,0 +1,4 @@
+print: "Hello World!"
+print: "I'm here"
+set: i = "Jorge Harrisonn"
+print: "My name is [i]"
